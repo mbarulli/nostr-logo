@@ -17,3 +17,8 @@ Here you can find a proposal by [Andrea Nicolini, aka Bembureda](https://dribbbl
 | Purple | White | 
 | ------- | ------- |  
 | ![Nostr icon purple ](/nostr-icon-purple-256x256.png) | ![Nostr icon white](/nostr-icon-white-256x256.png) |
+
+### License
+In order to ensure the widest reach, Andrea released his work for the Nostr community under the **Creative Commons Zero v1.0 Universal** (CC0) license.
+CC0 enables creators and owners of copyright-protected content to waive their rights so that others may freely build upon, enhance and reuse the works for any purposes without restriction under copyright or database law.
+
