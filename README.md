@@ -9,5 +9,5 @@ Andrea prepared multiple versions of the logo and icons you see below.
 I hope you like it!
 
 | Logo logo purple on white | Logo logo white on purple |
--------
+| ------- | ------- |
 | ![Nostr logo purple on white](/nostr-logo-purple-on-white-929x363.png) | ![Nostr logo purple on white](/nostr-logo-white-on-purple-929x363.png) | 
