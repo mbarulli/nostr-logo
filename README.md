@@ -1,3 +1,9 @@
 # Logo and icons for the Nostr protocol
-A logo for the Nostr community!
-Here you can find multiple versions of the logo developed by graphic designer Andrea Nicolini. 
+
+Yes, the nostr protocol is entirely decentralized, and there are no obligations on using a particular logo.
+Everyone is free to contribute to the nostr ecosystem and create the visuals they like.
+However, we believe that having a recognizable logo would be beneficial for the Nostr community as a whole!
+
+Here you can find a proposal by [Andrea Nicolini, aka Bembureda](https://dribbble.com/Bembureda).
+Andrea prepared multiple versions of the logo and icons you see below.
+I hope you like it!
