@@ -6,7 +6,7 @@ However, we believe that having a recognizable logo would be beneficial for the 
 
 Below you can find a proposal by [Andrea Nicolini, aka Bembureda](https://dribbble.com/Bembureda).  
 
-==> [Download the full package here.](/nostr-logo-and-icon.zip), it inclludes multiple versions, different sized and colors.
+==> [Download the full package here](/nostr-logo-and-icon.zip), it includes multiple versions, different sizes and colors.
 
 ### Nostr logo 
 | Purple on white | White on purple |
