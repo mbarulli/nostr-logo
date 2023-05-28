@@ -5,8 +5,8 @@ Everyone is free to contribute to the nostr ecosystem and create the visuals the
 However, we believe that having a recognizable logo would be beneficial for the Nostr community as a whole!
 
 Here you can find a proposal by [Andrea Nicolini, aka Bembureda](https://dribbble.com/Bembureda).
-Andrea prepared multiple versions of the logo and icons you see below. [Download the full package here.](/nostr-logo-and-icon.zip)
-I hope you like it!
+Andrea prepared multiple versions of the logo and icons you see below. 
+==> [Download the full package here.](/nostr-logo-and-icon.zip)
 
 ### Nostr logo 
 | Purple on white | White on purple | Purple transparent | White transparent |
