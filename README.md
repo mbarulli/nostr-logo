@@ -7,3 +7,5 @@ However, we believe that having a recognizable logo would be beneficial for the 
 Here you can find a proposal by [Andrea Nicolini, aka Bembureda](https://dribbble.com/Bembureda).
 Andrea prepared multiple versions of the logo and icons you see below.
 I hope you like it!
+
+![Nostr logo purple on white](/nostr-logo-purple-on-white-929x363.png)
