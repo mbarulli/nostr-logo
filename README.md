@@ -8,6 +8,7 @@ Here you can find a proposal by [Andrea Nicolini, aka Bembureda](https://dribbbl
 Andrea prepared multiple versions of the logo and icons you see below.
 I hope you like it!
 
-| Logo logo purple on white | Logo logo white on purple |
-| ------- | ------- |
-| ![Nostr logo purple on white](/nostr-logo-purple-on-white-929x363.png) | ![Nostr logo purple on white](/nostr-logo-white-on-purple-929x363.png) | 
+### Nostr logo 
+| Purple on white | White on purple | Purple transparent | White transparent |
+| ------- | ------- | ------- | ------- |  
+| ![Nostr logo purple on white](/nostr-logo-purple-on-white-929x363.png) | ![Nostr logo white on purple](/nostr-logo-white-on-purple-929x363.png) | ![Nostr logo purple transparent](/nostr-logo-purple-transparent-928x363.png) | ![Nostr logo white transparent](/nostr-logo-white-transparent-928x363.png) | 
