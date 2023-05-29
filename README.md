@@ -1,6 +1,6 @@
 # Logo and icon for the Nostr community
 
-Yes, the nostr protocol is entirely decentralized, and there are no obligations on using a particular logo.
+Yes, the nostr protocol is entirely decentralized, and there are no obligations to use a particular logo.
 Everyone is free to contribute to the nostr ecosystem and create the visuals they like.
 However, we believe that having a recognizable logo would be beneficial for the Nostr community as a whole!
 
