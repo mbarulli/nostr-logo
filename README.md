@@ -11,12 +11,12 @@ Below you can find a proposal by [Andrea Nicolini, aka Bembureda](https://dribbb
 ### Nostr logo 
 | Purple on white | White on purple |
 | ------- | ------- | 
-| ![Nostr logo purple on white](/nostr-logo-purple-on-white-929x363.png) | ![Nostr logo white on purple](/nostr-logo-white-on-purple-929x363.png) |
+| ![Nostr logo purple on white](/PNG/nostr-logo-purple-on-white-929x363.png) | ![Nostr logo white on purple](/PNG/nostr-logo-white-on-purple-929x363.png) |
 
 ### Nostr icon
 | Purple | White | 
 | ------- | ------- |  
-| ![Nostr icon purple ](/nostr-icon-purple-256x256.png) | ![Nostr icon white](/nostr-icon-white-256x256.png) |
+| ![Nostr icon purple ](/PNG/nostr-icon-purple-256x256.png) | ![Nostr icon white](/PNG/nostr-icon-white-256x256.png) |
 
 ### License
 In order to ensure the widest reach, Andrea released his work for the Nostr community under the **Creative Commons Zero v1.0 Universal** (CC0) license.
