@@ -18,7 +18,7 @@ Below you can find a proposal by [Andrea Nicolini, aka Bembureda](https://dribbb
 | ------- | ------- |  
 | ![Nostr icon purple ](/PNG/nostr-icon-purple-256x256.png) | ![Nostr icon white](/PNG/nostr-icon-white-256x256.png) |
 
-If you are interested in a Nostr-themed banner for a Reddit group, you can find some ![here](https://github.com/mbarulli/nostr-logo/blob/main/Reddit-banners). 
+If you are interested in a Nostr-themed banner for a Reddit group, you can find some ![here](https://github.com/mbarulli/nostr-logo/blob/main/Reddit%20banners).
 
 ### License
 In order to ensure the widest reach, Andrea released his work for the Nostr community under the **Creative Commons Zero v1.0 Universal** (CC0) license.
